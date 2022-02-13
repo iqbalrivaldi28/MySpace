@@ -1,0 +1,65 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #333646;
+  color: white;
+}
+
+#project {
+  background-color: #333646;
+  color: white;
+}
+
+.card-text {
+  color: black;
+}
+
+.btn {
+  background-color: #333646;
+  color: white;
+}
+
+footer {
+  background-color: #333646;
+  color: white;
+  padding-bottom: 5px;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.carousel {
+  width: 600px;
+  height: 550px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.carousel-caption {
+  color: black;
+  font-weight: bold;
+}
+
+#skill {
+  background-color: #333646;
+}
+
+.gambar {
+  height: 20px;
+  width: 20px;
+}
+
+.icon {
+  margin: 10px 5px;
+}
+
+.icon a {
+  margin-left: 10px;
+  margin-right: 10px;
+}
